@@ -1,2 +1,4 @@
 # first
-this is my first git repository
+This is my first Git repository
+<br>
+author : ADITYA GARG
